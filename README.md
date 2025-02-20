@@ -1,7 +1,9 @@
 # Solder-iron-attachment
 
 This project features an innovative attachment for conventional soldering irons, designed to enable one-handed operation by integrating a solder-feeding mechanism. With the press of a button, solder is automatically fed to the iron's heated tip, eliminating the need for manual handling. Additionally, the attachment includes a ventilated insulated cover that reduces the risk of accidental burns while preventing overheating. The design is compact, easy to install, and compatible with most standard soldering irons, improving both safety and efficiency for users.
-## Project Images 
+## Project Images and video
+
+[![Video of working prototype](https://via.placeholder.com/600x300?text=Click+to+Watch+Video)](https://1drv.ms/v/c/4066db338c651842/Ednbc4j_JP9MvuRDr2dJ7S4BNg-K2_5plt73qKrSuOkzWw?e=O7sF2w)
 
 <img src="https://github.com/user-attachments/assets/3827054f-a403-4085-a125-52d6044782ce" width="300">
 
